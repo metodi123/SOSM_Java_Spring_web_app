@@ -1,0 +1,79 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+#wrapper {
+	width: 900px;
+	text-align: center;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+caption {
+	caption-side:bottom;
+}
+
+td {
+	 text-align:center; 
+}
+
+th {
+	 text-align:center; 
+}
+
+#header {
+	position: static;
+	width: 100%;
+	height: auto;
+    font-family: sans-serif;
+    color: #4da6ff;
+}
+
+#menu {
+	position: static;
+	width: 100%;
+	height: auto;
+}
+
+#textbox {
+	position: static;
+	width: 100%;
+	height: auto;
+    padding: 0px 10px;
+    text-align: justify;
+    min-height: 350px;
+}
+
+#loginbox {
+	position: static;
+	width: 100%;
+	height: auto;
+	text-align: center;
+    font-family: sans-serif;
+    padding: 75px 10px;
+    min-height: 400px;
+    
+}
+
+#footer {
+	position: static;
+	height: 100%;
+	clear: both;
+	font-family: sans-serif;
+	font-size: 11px;
+	text-align: center;
+}
+
+#user-info {
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+
+.positive-green {
+	color: #00e600;
+}
+
+.negative-red {
+	color: #ff3333;
+}
