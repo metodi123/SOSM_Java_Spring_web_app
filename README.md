@@ -10,7 +10,7 @@ The purpose of this application is to provide an easy way for the students from 
 
 ### Technologies
 
-Some of the used technologies during the development process are:
+Some of the technologies used in the development process are:
 - Java
 - MySQL
 - JDBC
