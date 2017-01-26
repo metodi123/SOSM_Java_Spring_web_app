@@ -1,4 +1,4 @@
-# SOSM Java Web Application
+# SOSM Java Spring Web Application
 
 System for processing student requests (**_Система за обработка на студентски молби_**).
 
