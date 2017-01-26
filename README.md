@@ -20,7 +20,7 @@ Some of the used technologies during the development process are:
 - Apache Maven
 - HTML
 - CSS
-- JavaScript.
+- JavaScript
 
 <br />
 Copyright © 2016, Metodi Metodiev
